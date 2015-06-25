@@ -1,0 +1,434 @@
+2015-06-24 22:46:08.848 Hello World[9337:454658] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/F2A6E659-AF92-4B8C-BA5F-ED747E146FDD/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:46:08.910 Hello World[9337:454658] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:46:08.910 Hello World[9337:454658] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:46:08.913 Hello World[9337:454658] Unlimited access to network resources
+2015-06-24 22:46:08.916 Hello World[9337:454658] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:46:09.095 Hello World[9337:454658] Resetting plugins due to page load.
+2015-06-24 22:46:09.201 Hello World[9337:454658] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/42E47C32-1C54-44B4-9111-86FEBBBD9E02/Hello%20World.app/www/index.html
+2015-06-24 22:55:09.346 Hello World[9494:459751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/CA7CC042-157E-4A03-BEFF-F3053A2B73BC/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:55:09.398 Hello World[9494:459751] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:55:09.398 Hello World[9494:459751] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:55:09.400 Hello World[9494:459751] Unlimited access to network resources
+2015-06-24 22:55:09.403 Hello World[9494:459751] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:55:09.523 Hello World[9494:459751] Resetting plugins due to page load.
+2015-06-24 22:55:09.552 Hello World[9494:459751] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/F1847E5D-0AB3-4C6F-9CFD-EA94DD0111B2/Hello%20World.app/www/index.html
+2015-06-24 22:55:27.728 Hello World[9619:460311] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/4FCF25B6-C726-4954-8B7D-36FA974A68BF/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:55:27.787 Hello World[9619:460311] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:55:27.787 Hello World[9619:460311] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:55:27.789 Hello World[9619:460311] Unlimited access to network resources
+2015-06-24 22:55:27.790 Hello World[9619:460311] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:55:27.886 Hello World[9619:460311] Resetting plugins due to page load.
+2015-06-24 22:55:27.913 Hello World[9619:460311] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/FC98D088-77D8-4070-976F-FFCAC74B523B/Hello%20World.app/www/index.html
+2015-06-24 22:56:17.041 Hello World[9743:461025] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/2A5AC6BA-46B0-4A3D-8566-5839E02EFEFF/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:56:17.088 Hello World[9743:461025] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:56:17.089 Hello World[9743:461025] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:56:17.090 Hello World[9743:461025] Unlimited access to network resources
+2015-06-24 22:56:17.092 Hello World[9743:461025] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:56:17.203 Hello World[9743:461025] Resetting plugins due to page load.
+2015-06-24 22:56:17.229 Hello World[9743:461025] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/97CAAF4A-2B74-4C34-B39D-FCF3400555AB/Hello%20World.app/www/index.html
+2015-06-24 22:56:39.245 Hello World[9863:461525] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/992A089F-C0EC-44D2-AD29-F65C1ECB05E5/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:56:39.311 Hello World[9863:461525] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:56:39.312 Hello World[9863:461525] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:56:39.313 Hello World[9863:461525] Unlimited access to network resources
+2015-06-24 22:56:39.314 Hello World[9863:461525] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:56:39.409 Hello World[9863:461525] Resetting plugins due to page load.
+2015-06-24 22:56:39.438 Hello World[9863:461525] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/35BA08FA-230A-4881-8FB7-F25E6709BDA4/Hello%20World.app/www/index.html
+2015-06-24 22:57:33.925 Hello World[9986:462289] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/FCEB6A43-ACCD-4756-88E6-E625EC841BEB/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:57:33.996 Hello World[9986:462289] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:57:33.996 Hello World[9986:462289] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:57:33.997 Hello World[9986:462289] Unlimited access to network resources
+2015-06-24 22:57:33.999 Hello World[9986:462289] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:57:34.093 Hello World[9986:462289] Resetting plugins due to page load.
+2015-06-24 22:57:34.121 Hello World[9986:462289] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/D62A07A8-B325-4CE6-80AC-1F48FBCB7922/Hello%20World.app/www/index.html
+2015-06-24 22:58:02.135 Hello World[10104:462834] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/E5E7F7CE-06DE-490C-9CF7-8DF25ECA1E87/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:58:02.209 Hello World[10104:462834] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:58:02.209 Hello World[10104:462834] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:58:02.211 Hello World[10104:462834] Unlimited access to network resources
+2015-06-24 22:58:02.212 Hello World[10104:462834] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:58:02.310 Hello World[10104:462834] Resetting plugins due to page load.
+2015-06-24 22:58:02.343 Hello World[10104:462834] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/77CD2C1F-C51B-4340-B8FB-0CF473E70736/Hello%20World.app/www/index.html
+2015-06-24 22:58:18.573 Hello World[10227:463267] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/C9C85EEF-A8D6-457D-B78E-54EEA80DEFFA/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:58:18.621 Hello World[10227:463267] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:58:18.621 Hello World[10227:463267] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:58:18.623 Hello World[10227:463267] Unlimited access to network resources
+2015-06-24 22:58:18.624 Hello World[10227:463267] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:58:18.717 Hello World[10227:463267] Resetting plugins due to page load.
+2015-06-24 22:58:18.742 Hello World[10227:463267] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/7F4EB8E8-222D-438C-A50A-1BD728149EE7/Hello%20World.app/www/index.html
+2015-06-24 22:59:27.084 Hello World[10357:464419] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/8ADB554F-90E6-4F51-8F1B-BA22637E2986/Library/Cookies/Cookies.binarycookies
+2015-06-24 22:59:27.137 Hello World[10357:464419] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 22:59:27.138 Hello World[10357:464419] Multi-tasking -> Device: YES, App: YES
+2015-06-24 22:59:27.139 Hello World[10357:464419] Unlimited access to network resources
+2015-06-24 22:59:27.140 Hello World[10357:464419] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 22:59:27.253 Hello World[10357:464419] Resetting plugins due to page load.
+2015-06-24 22:59:27.285 Hello World[10357:464419] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/75C0C45B-7A0E-4A96-8134-D25DB3A1DAD5/Hello%20World.app/www/index.html
+2015-06-24 23:01:11.264 Hello World[10476:465812] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/50045C7E-49B0-4C00-8677-F983D6E77F4E/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:01:11.320 Hello World[10476:465812] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:01:11.320 Hello World[10476:465812] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:01:11.321 Hello World[10476:465812] Unlimited access to network resources
+2015-06-24 23:01:11.323 Hello World[10476:465812] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:01:11.427 Hello World[10476:465812] Resetting plugins due to page load.
+2015-06-24 23:01:11.455 Hello World[10476:465812] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/88C42F54-A3A7-4248-95BD-09AE68F3FFBB/Hello%20World.app/www/index.html
+2015-06-24 23:01:32.782 Hello World[10594:466295] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/C52040E0-7BC8-4261-978E-E6944856DF7F/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:01:32.829 Hello World[10594:466295] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:01:32.830 Hello World[10594:466295] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:01:32.831 Hello World[10594:466295] Unlimited access to network resources
+2015-06-24 23:01:32.832 Hello World[10594:466295] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:01:32.940 Hello World[10594:466295] Resetting plugins due to page load.
+2015-06-24 23:01:32.968 Hello World[10594:466295] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/7D18473A-431D-4F01-8401-2640F3388A13/Hello%20World.app/www/index.html
+2015-06-24 23:03:08.489 Hello World[10717:467439] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/B440081D-8AE0-4057-87E6-FF0907E5425C/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:03:08.543 Hello World[10717:467439] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:03:08.543 Hello World[10717:467439] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:03:08.545 Hello World[10717:467439] Unlimited access to network resources
+2015-06-24 23:03:08.546 Hello World[10717:467439] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:03:08.662 Hello World[10717:467439] Resetting plugins due to page load.
+2015-06-24 23:03:08.693 Hello World[10717:467439] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/66A526C3-CC97-4D78-84D4-7ED6906186F6/Hello%20World.app/www/index.html
+2015-06-24 23:03:44.475 Hello World[10835:467999] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/87B175B3-9D39-4CED-AE98-06F8BD765B4D/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:03:44.525 Hello World[10835:467999] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:03:44.525 Hello World[10835:467999] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:03:44.526 Hello World[10835:467999] Unlimited access to network resources
+2015-06-24 23:03:44.528 Hello World[10835:467999] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:03:44.633 Hello World[10835:467999] Resetting plugins due to page load.
+2015-06-24 23:03:44.663 Hello World[10835:467999] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/77BDE3D3-BA16-4D98-A55A-AFC86F4523BD/Hello%20World.app/www/index.html
+2015-06-24 23:05:25.666 Hello World[10952:468851] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/54288F5C-C9BD-44D3-9F53-98F9B8B70BCD/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:05:25.722 Hello World[10952:468851] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:05:25.723 Hello World[10952:468851] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:05:25.724 Hello World[10952:468851] Unlimited access to network resources
+2015-06-24 23:05:25.726 Hello World[10952:468851] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:05:25.825 Hello World[10952:468851] Resetting plugins due to page load.
+2015-06-24 23:05:25.855 Hello World[10952:468851] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/168A7CAB-E52A-4F79-9AB8-1472B7F6BEF6/Hello%20World.app/www/index.html
+2015-06-24 23:10:12.439 Hello World[11102:471910] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/7D06531D-6675-4F85-BA52-2B9EDE08D2B7/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:10:12.495 Hello World[11102:471910] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:10:12.495 Hello World[11102:471910] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:10:12.496 Hello World[11102:471910] Unlimited access to network resources
+2015-06-24 23:10:12.498 Hello World[11102:471910] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:10:12.601 Hello World[11102:471910] Resetting plugins due to page load.
+2015-06-24 23:10:12.633 Hello World[11102:471910] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/ACB51CA2-BD0C-4250-B332-AFEEB086EA36/Hello%20World.app/www/index.html
+2015-06-24 23:11:04.146 Hello World[11221:472668] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/CCE2F6C9-91C8-4F10-BB4E-D6F5E7494FF7/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:11:04.203 Hello World[11221:472668] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:11:04.203 Hello World[11221:472668] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:11:04.204 Hello World[11221:472668] Unlimited access to network resources
+2015-06-24 23:11:04.206 Hello World[11221:472668] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:11:04.310 Hello World[11221:472668] Resetting plugins due to page load.
+2015-06-24 23:11:04.339 Hello World[11221:472668] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/A55A8D24-B237-46A7-9112-268BB75140F6/Hello%20World.app/www/index.html
+2015-06-24 23:11:44.626 Hello World[11338:473369] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/AF6481DF-BF37-4BCF-8CFB-29B6958DB794/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:11:44.676 Hello World[11338:473369] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:11:44.677 Hello World[11338:473369] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:11:44.678 Hello World[11338:473369] Unlimited access to network resources
+2015-06-24 23:11:44.680 Hello World[11338:473369] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:11:44.786 Hello World[11338:473369] Resetting plugins due to page load.
+2015-06-24 23:11:44.816 Hello World[11338:473369] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/336C6950-1E75-4859-AA3A-FDF9549522FB/Hello%20World.app/www/index.html
+2015-06-24 23:15:02.314 Hello World[11474:475132] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/274A9DE5-8A8A-4B64-889C-29F3DFF339CD/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:15:02.365 Hello World[11474:475132] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:15:02.366 Hello World[11474:475132] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:15:02.367 Hello World[11474:475132] Unlimited access to network resources
+2015-06-24 23:15:02.369 Hello World[11474:475132] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:15:02.475 Hello World[11474:475132] Resetting plugins due to page load.
+2015-06-24 23:15:02.509 Hello World[11474:475132] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/FD1BF119-2294-4C2D-8E07-92E0283EA316/Hello%20World.app/www/index.html
+2015-06-24 23:18:15.290 Hello World[11615:477393] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/1B0A16B4-8E5B-42BD-B76D-31418C17D340/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:18:15.338 Hello World[11615:477393] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:18:15.338 Hello World[11615:477393] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:18:15.339 Hello World[11615:477393] Unlimited access to network resources
+2015-06-24 23:18:15.341 Hello World[11615:477393] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:18:15.458 Hello World[11615:477393] Resetting plugins due to page load.
+2015-06-24 23:18:15.613 Hello World[11615:477393] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/034B8CE0-EC6D-4F11-BB68-AFB4977C1C66/Hello%20World.app/www/index.html
+2015-06-24 23:19:10.991 Hello World[11738:478390] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/CDB3B822-484E-4C74-933A-95009A6316B3/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:19:11.054 Hello World[11738:478390] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:19:11.055 Hello World[11738:478390] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:19:11.056 Hello World[11738:478390] Unlimited access to network resources
+2015-06-24 23:19:11.057 Hello World[11738:478390] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:19:11.149 Hello World[11738:478390] Resetting plugins due to page load.
+2015-06-24 23:19:11.201 Hello World[11738:478390] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/B350045E-2495-41F6-985F-B13118EC6465/Hello%20World.app/www/index.html
+2015-06-24 23:19:56.382 Hello World[11856:479098] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/90228748-31E7-4223-8FC3-3C15C8B99592/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:19:56.431 Hello World[11856:479098] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:19:56.431 Hello World[11856:479098] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:19:56.432 Hello World[11856:479098] Unlimited access to network resources
+2015-06-24 23:19:56.434 Hello World[11856:479098] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:19:56.535 Hello World[11856:479098] Resetting plugins due to page load.
+2015-06-24 23:19:56.583 Hello World[11856:479098] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/50BC804A-56B6-4E79-9ACC-8F154B8EB0C2/Hello%20World.app/www/index.html
+2015-06-24 23:21:32.211 Hello World[11976:480262] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/CB011CD1-7C75-48BA-B009-515135A8359B/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:21:32.268 Hello World[11976:480262] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:21:32.268 Hello World[11976:480262] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:21:32.269 Hello World[11976:480262] Unlimited access to network resources
+2015-06-24 23:21:32.271 Hello World[11976:480262] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:21:32.367 Hello World[11976:480262] Resetting plugins due to page load.
+2015-06-24 23:21:32.400 Hello World[11976:480262] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/A5B743BD-ACB5-4E21-BED4-8F9610DC203E/Hello%20World.app/www/index.html
+2015-06-24 23:22:23.831 Hello World[12100:481390] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/5AFA97AE-5EF8-42A6-9CEC-E4CB5D7269A7/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:22:23.888 Hello World[12100:481390] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:22:23.889 Hello World[12100:481390] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:22:23.890 Hello World[12100:481390] Unlimited access to network resources
+2015-06-24 23:22:23.892 Hello World[12100:481390] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:22:23.994 Hello World[12100:481390] Resetting plugins due to page load.
+2015-06-24 23:22:24.039 Hello World[12100:481390] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/652A3B1B-9C9A-422D-94A8-DB1EF5620B96/Hello%20World.app/www/index.html
+2015-06-24 23:25:13.038 Hello World[12224:483296] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/BDB3E917-B5E7-4D83-8BAF-BA9584DA5BC2/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:25:13.094 Hello World[12224:483296] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:25:13.095 Hello World[12224:483296] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:25:13.096 Hello World[12224:483296] Unlimited access to network resources
+2015-06-24 23:25:13.098 Hello World[12224:483296] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:25:13.200 Hello World[12224:483296] Resetting plugins due to page load.
+2015-06-24 23:25:13.260 Hello World[12224:483296] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/B703BB6C-7A1F-4366-AB66-C4294025CAC0/Hello%20World.app/www/index.html
+2015-06-24 23:25:29.180 Hello World[12341:483714] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/551B2C98-C628-4FAF-8AC8-04F7542B29E1/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:25:29.229 Hello World[12341:483714] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:25:29.229 Hello World[12341:483714] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:25:29.230 Hello World[12341:483714] Unlimited access to network resources
+2015-06-24 23:25:29.232 Hello World[12341:483714] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:25:29.333 Hello World[12341:483714] Resetting plugins due to page load.
+2015-06-24 23:25:29.376 Hello World[12341:483714] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/418AAECA-6E53-4798-8B23-5739CC25DE7C/Hello%20World.app/www/index.html
+2015-06-24 23:25:43.788 Hello World[12458:484118] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/5395C17D-E589-4146-A2F0-6FC365D69F30/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:25:43.836 Hello World[12458:484118] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:25:43.836 Hello World[12458:484118] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:25:43.838 Hello World[12458:484118] Unlimited access to network resources
+2015-06-24 23:25:43.839 Hello World[12458:484118] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:25:43.943 Hello World[12458:484118] Resetting plugins due to page load.
+2015-06-24 23:25:43.992 Hello World[12458:484118] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/5805D187-4A78-4EBD-8FC5-70E80C606C0F/Hello%20World.app/www/index.html
+2015-06-24 23:25:48.831 Hello World[12575:484361] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/93BAB839-EBC8-4335-BE0C-696FCC03E430/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:25:48.879 Hello World[12575:484361] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:25:48.879 Hello World[12575:484361] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:25:48.881 Hello World[12575:484361] Unlimited access to network resources
+2015-06-24 23:25:48.882 Hello World[12575:484361] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:25:48.991 Hello World[12575:484361] Resetting plugins due to page load.
+2015-06-24 23:25:49.034 Hello World[12575:484361] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/DACF4540-B69B-4F5E-B9C6-E840720B1E7F/Hello%20World.app/www/index.html
+2015-06-24 23:26:07.941 Hello World[12692:484871] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/8F490EAB-B55B-4F24-8CE2-800428891DD5/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:26:07.993 Hello World[12692:484871] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:26:07.994 Hello World[12692:484871] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:26:07.995 Hello World[12692:484871] Unlimited access to network resources
+2015-06-24 23:26:07.996 Hello World[12692:484871] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:26:08.115 Hello World[12692:484871] Resetting plugins due to page load.
+2015-06-24 23:26:08.163 Hello World[12692:484871] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/D1B3E465-9EC7-44BD-9CFF-9A388AED1A37/Hello%20World.app/www/index.html
+2015-06-24 23:27:46.926 Hello World[12816:485875] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/A902F7D7-0AD4-4B7D-BA04-D131FD62DB60/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:27:46.989 Hello World[12816:485875] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:27:46.989 Hello World[12816:485875] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:27:46.991 Hello World[12816:485875] Unlimited access to network resources
+2015-06-24 23:27:46.992 Hello World[12816:485875] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:27:47.092 Hello World[12816:485875] Resetting plugins due to page load.
+2015-06-24 23:27:47.139 Hello World[12816:485875] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/F3D1B415-2313-4CD2-8E92-3A7AE55C5D4D/Hello%20World.app/www/index.html
+2015-06-24 23:28:31.473 Hello World[12941:486821] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/15A2F367-0C46-4B7A-B9D6-8EE27D5A8EA7/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:28:31.528 Hello World[12941:486821] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:28:31.528 Hello World[12941:486821] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:28:31.530 Hello World[12941:486821] Unlimited access to network resources
+2015-06-24 23:28:31.531 Hello World[12941:486821] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:28:31.634 Hello World[12941:486821] Resetting plugins due to page load.
+2015-06-24 23:28:31.682 Hello World[12941:486821] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/44928B73-E553-4230-9EA4-3DC61DA1ADF7/Hello%20World.app/www/index.html
+2015-06-24 23:30:44.162 Hello World[13063:488328] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Data/Application/AB4C3E8E-B7FB-4610-AD0A-889366D9E49B/Library/Cookies/Cookies.binarycookies
+2015-06-24 23:30:44.227 Hello World[13063:488328] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 23:30:44.227 Hello World[13063:488328] Multi-tasking -> Device: YES, App: YES
+2015-06-24 23:30:44.229 Hello World[13063:488328] Unlimited access to network resources
+2015-06-24 23:30:44.231 Hello World[13063:488328] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 23:30:44.331 Hello World[13063:488328] Resetting plugins due to page load.
+2015-06-24 23:30:44.374 Hello World[13063:488328] Finished load of: file:///Users/eveR/Library/Developer/CoreSimulator/Devices/40536FA7-7B01-44E9-A60D-9A66D17F56F8/data/Containers/Bundle/Application/5B9CA706-2D79-4D9E-83CB-C512220BC263/Hello%20World.app/www/index.html
